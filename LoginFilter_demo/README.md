@@ -1,6 +1,6 @@
 # 已完成的功能
 1. 当项目运行时跳转到登录页面
-![登录页面效果](https://github.com/BankZhang/JAVAWEB-HomeWork/tree/main/LoginFilter_demo/Pic/Login.png)
+![登录页面效果](/Pic/Login.png)
 2. 如果账户、密码，其中一项未填写，就点击提交按钮的话，会重复跳转到登录页面
 
 3. 如果用户未登录，则只能请求在排除列表内的Servlet
@@ -8,4 +8,4 @@
 4. 如果账户正常登录（此处指输入了账户密码就认定为用户正常登录），并且会自动跳转到登录成功的页面，用户可以请求所有的Servlet
 
 5. 对应地访问每一个Servlet都有对应的页面提示
-![登录成功](https://github.com/BankZhang/JAVAWEB-HomeWork/tree/main/LoginFilter_demo/Pic/LoginSuccess.png)
+![登录成功](/Pic/LoginSuccess.png)
